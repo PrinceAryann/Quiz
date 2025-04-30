@@ -1,7 +1,10 @@
-````markdown
+---
+
 # Python Quiz Game
 
 Welcome to the Python Quiz Game! This is a simple command-line quiz application built using Python. The game asks True/False questions, and your score is displayed after each question. The questions range from Python-related concepts to general knowledge facts.
+
+---
 
 ## Features
 
