@@ -1,5 +1,3 @@
-Here's a `README.md` template for your quiz game repository:
-
 ````markdown
 # Python Quiz Game
 
@@ -80,4 +78,5 @@ Happy Quizzing! 🏆🎉
 ```
 
 ```
+
 # Quiz
